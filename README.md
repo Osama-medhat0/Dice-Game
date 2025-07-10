@@ -3,8 +3,8 @@
 A simple and interactive 2-player dice game built with **HTML, CSS, and JavaScript**. Roll the dice, hold your score, and race to 80 points to win!
 
 ---
+![image](https://github.com/user-attachments/assets/cc0b19f9-257a-408c-9ecd-f57aefb41fa6)
 
-![Uploading image.png…]()
 
 ## 🕹️ How to Play
 
